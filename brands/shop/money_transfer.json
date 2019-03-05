@@ -8,15 +8,9 @@
   },
   "shop/money_transfer|Mobile Money": {
     "count": 385,
+    "match": ["shop/money_transfer|Mobile money"],
     "tags": {
       "name": "Mobile Money",
-      "shop": "money_transfer"
-    }
-  },
-  "shop/money_transfer|Mobile money": {
-    "count": 80,
-    "tags": {
-      "name": "Mobile money",
       "shop": "money_transfer"
     }
   },
